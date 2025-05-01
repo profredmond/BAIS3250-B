@@ -1,8 +1,9 @@
 # BAIS3250-B
 Sample repository for 11:30 lecture
 
-## Smaller section
--File descriptions
+## List of files in the repository
+- Class 26 - GitHub.pptx - this powerpoint explains GitHub.
+- Lab 14 Prep Template - Jupyter Notebook over text analytics
 
 
 | Plugin | README |
